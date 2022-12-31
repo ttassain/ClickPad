@@ -23,11 +23,11 @@ Pratique dans certain jeux :)
 | 6 | Column 1 |
 | 7 | Column 2 |
 | 8 | Column 3 |
-| 8 | Column 4 |
-| 8 | Row 1 |
-| 8 | Row 2 |
-| 8 | Row 3 |
-| 8 | Row 4 |
+| 9 | Column 4 |
+| 10 | Row 1 |
+| 16 | Row 2 |
+| 14 | Row 3 |
+| 15 | Row 4 |
 
 ### Ecran OLED SSD1306
 

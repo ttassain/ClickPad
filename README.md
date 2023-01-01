@@ -7,7 +7,7 @@ Pratique dans certain jeux :)
 ## Hardware
 
 - ATMega 32U4 Pro Micro
-- Ecran OLD SSD1306
+- Ecran OLDED SSD1306
 - Clavier matricielle 4x4
 
 
